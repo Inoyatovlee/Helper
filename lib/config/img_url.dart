@@ -1,0 +1,4 @@
+class NetworkImages {
+  static String evos =
+      "https://s3-alpha-sig.figma.com/img/22dc/0d5b/240f0b236b9937a025d0c5b5922ec8e6?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HgJHangHvez-Wnia67T~paXHo9aw-Uyod2Q61JqRmmfHfdVJSuNtvmDSZDp8V7io5aUZ8EieElGiRqFusetAPkrvIMbQ5WBFpRW51Lv5uCoqU67Pj6tnLQhELY4v2gTBycyxwjrZjT09Krc9mXfy6oXK3FzKeoXnt4Xf~CYzxJ6vl7R3kOnqNKEwWqK66AH4zJimlCoQxjPugXO93HDWll2BnIcWSwEd5ETtc0s-gzxPt~ZuShrKwQVIlW86WDs4UR9jqhCFJWMSCZ8Gfay-W~xy3GRwdUFaBjG8PJedWpdAobizxQ4m8b8NE3IPP-riBC8NxoshJyGdbKupvsnlJg__";
+}
