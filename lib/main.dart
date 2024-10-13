@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:start_go/font/fontTekshir.dart';
+import 'package:start_go/onboarding_Screen/welcom_.dart';
 import 'package:start_go/splash/splash.dart';
 import 'package:start_go/widget/PaddingPage.dart';
 import 'package:start_go/config/card.dart';

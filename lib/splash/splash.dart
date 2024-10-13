@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:start_go/config/img.dart';
+import 'package:start_go/onboarding_Screen/welcom_.dart';
 import 'package:start_go/splash/welcome.dart';
 
 class Splash extends StatefulWidget {
